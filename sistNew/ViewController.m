@@ -26,4 +26,8 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)btn_hotfix1500:(id)sender {
+    
+    NSLog(@"algo en hotfix1501");
+}
 @end
